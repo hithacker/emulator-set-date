@@ -1,5 +1,5 @@
 # emulator-set-date
-Command line utility that allows setting emulator date
+Command line utility that allows setting android emulator date
 
 **Installation**
 
